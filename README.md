@@ -7,3 +7,6 @@
 3. To keep a track of all the MSE values, I introduced CSVLogger to download the loss values as a CSV.
    
 4. I plotted graphs to compare the actual and predicted values of all three datasets.
+
+## Result of these changes:
+The minimized error reduced from 0.022861 to 0.016391.
