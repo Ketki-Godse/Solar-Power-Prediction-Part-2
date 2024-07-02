@@ -10,3 +10,5 @@
 
 ## Result of these changes:
 The minimized error reduced from 0.022861 to 0.016391.
+
+View the preview of my file here: https://html-preview.github.io/?url=https://github.com/Ketki-Godse/Solar-Power-Prediction-Part-2/blob/main/LSTM%20-%20RNN%20-%20Solar%20Power-Sequential.html
